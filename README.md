@@ -156,7 +156,7 @@ Some comments were skipped (namely some Wonderwall or Freebird comments that wer
 * 2: [Folsom Prison Blues - Johnny Cash](https://www.songsterr.com/a/wa/search?pattern=Folsom%20Prison%20Blues%20%20Johnny%20Cash%0A)
 * 2: [Hotel Yorba - The White Stripes](https://www.songsterr.com/a/wa/search?pattern=Hotel%20Yorba%20%20The%20White%20Stripes%0A)
 * 2: [Stand By Me - Ben E. King](https://www.songsterr.com/a/wa/search?pattern=Stand%20By%20Me%20%20Ben%20E.%20King%0A)
-* 2: [House Of The Rising Sun - Traditional](https://www.songsterr.com/a/wa/search?pattern=House%20Of%20The%20Rising%20Sun%20%20Traditional%0A)
+* 2: [House Of The Rising Sun - Traditional](https://youtu.be/d8t-LTC6U_c)*
 * 2: [Heart Of Gold - Neil Young](https://www.songsterr.com/a/wa/search?pattern=Heart%20Of%20Gold%20%20Neil%20Young%0A)
 * 2: [Whole Lotta Love - Led Zeppelin](https://www.songsterr.com/a/wa/search?pattern=Whole%20Lotta%20Love%20%20Led%20Zeppelin%0A)
 * 2: [You're Beautiful - James Blunt](https://www.songsterr.com/a/wa/search?pattern=You%27re%20Beautiful%20%20James%20Blunt%0A)
@@ -171,6 +171,31 @@ Some comments were skipped (namely some Wonderwall or Freebird comments that wer
 * 2: [More Than Words - Extreme](https://www.songsterr.com/a/wa/search?pattern=More%20Than%20Words%20%20Extreme%0A)
 * 2: [Songbird - Oasis](https://www.songsterr.com/a/wa/search?pattern=Songbird%20%20Oasis%0A)
 * 2: [No Rain -  Blind Melon](https://www.songsterr.com/a/wa/search?pattern=No%20Rain%20%20%20Blind%20Melon%0A)
+
+# The Beginner Fingerstyle Song List
+The Beginner Fingerstyle Song List (Cifra Club)
+* Blackbird - The Beatles / [CifraClub](https://youtu.be/QMWPS1bpR5g) / [GuitarZero2Hero Express](https://youtu.be/a9fgAzcVyuY)
+* Dust In The Wind - Kansas / [CifraClub](https://youtu.be/BU-t9ROEVok) / [GuitarZero2Hero Express](https://youtu.be/a9fgAzcVyuY)
+* Ain’t No Sunshine - Bill Withers / [GuitarZero2Hero Express](https://youtu.be/DngT6PiTNvk)
+* Nothing Else Matters - Metallica [CifraClub](https://youtu.be/2NFZEvPAkLM) / [GuitarZero2Hero Express](https://youtu.be/xSYfmlm_IDY)
+* Shape of My Heart - Sting [GuitarZero2Hero Express](https://youtu.be/kYa6ZW5ke1U)
+* Don’t Think Twice It’s Alright - Bob Dylan / [Pow Music](https://youtu.be/Ii0kyeghbuo)
+* Good Riddance (Time of Your life) - Green Day / [CifraClub](https://youtu.be/6SaNGdwVWbg) / [GuitarZero2Hero Express](https://youtu.be/Ta1CcHantNQ)
+* Babe I’m Gonna Leave You - Led Zeppelin
+* Hallelujah - Jeff Buckley
+* The Boxer - Simon and Garfunkel
+* Wish You Were Here - Pink Floyd [Pow Music](https://youtu.be/WyIGZcVtcsc)
+* Stairway to Heaven - Led Zeppelin
+* Everybody Hurts - REM
+* Wonderful Tonight - Eric Clapton
+* Fast Car - Tracy Chapman
+* House of the Rising Sun - The Animals
+* Don’t Cry - Guns’n’Roses
+* Love Yourself - Justin Bieber
+* Fire and Rain - James Taylor
+* Hotel California - The Eagles
+* One - Metallica
+
 
 # Intermediate to Advanced
 
